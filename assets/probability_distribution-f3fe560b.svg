@@ -1,0 +1,20 @@
+<svg viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title">
+  <title>Probability Distribution of Rolls to Get a 6</title>
+  <rect width="300" height="200" fill="#f5f5f5"/>
+  <line x1="30" y1="180" x2="280" y2="180" stroke="#000" stroke-width="1"/>
+  <line x1="30" y1="20" x2="30" y2="180" stroke="#000" stroke-width="1"/>
+  <text x="15" y="185" font-size="10" fill="#000">0</text>
+  <text x="50" y="195" font-size="10" fill="#000">1</text>
+  <text x="90" y="195" font-size="10" fill="#000">2</text>
+  <text x="130" y="195" font-size="10" fill="#000">3</text>
+  <text x="170" y="195" font-size="10" fill="#000">4</text>
+  <text x="210" y="195" font-size="10" fill="#000">5</text>
+  <text x="250" y="195" font-size="10" fill="#000">6</text>
+  <text x="280" y="185" font-size="9" fill="#000">Rolls</text>
+  <rect x="45" y="160" width="20" height="20" fill="#5f9ea0"/>
+  <rect x="85" y="140" width="20" height="40" fill="#5f9ea0"/>
+  <rect x="125" y="120" width="20" height="60" fill="#5f9ea0"/>
+  <rect x="165" y="100" width="20" height="80" fill="#5f9ea0"/>
+  <rect x="205" y="80" width="20" height="100" fill="#5f9ea0"/>
+  <text x="100" y="15" font-size="12" fill="#000">Probability Distribution</text>
+</svg>

@@ -1,0 +1,17 @@
+<svg viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title">
+  <title>Expected Rolls Convergence to 6</title>
+  <rect width="300" height="200" fill="#f5f5f5"/>
+  <line x1="30" y1="180" x2="280" y2="180" stroke="#000" stroke-width="1"/>
+  <line x1="30" y1="20" x2="30" y2="180" stroke="#000" stroke-width="1"/>
+  <text x="15" y="185" font-size="10" fill="#000">0</text>
+  <text x="50" y="195" font-size="10" fill="#000">10</text>
+  <text x="100" y="195" font-size="10" fill="#000">20</text>
+  <text x="150" y="195" font-size="10" fill="#000">30</text>
+  <text x="200" y="195" font-size="10" fill="#000">40</text>
+  <text x="250" y="195" font-size="10" fill="#000">50</text>
+  <text x="280" y="185" font-size="9" fill="#000">Rolls</text>
+  <path d="M30 150 Q 70 100, 110 90 T 250 80" stroke="#5f9ea0" fill="none" stroke-width="2"/>
+  <circle cx="250" cy="80" r="3" fill="#ff0000"/>
+  <text x="260" y="85" font-size="10" fill="#000">6</text>
+  <text x="100" y="15" font-size="12" fill="#000">Expected Value Approaching 6</text>
+</svg>
